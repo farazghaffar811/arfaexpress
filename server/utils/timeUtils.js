@@ -1,0 +1,1 @@
+exports.formatTime = (date) => new Date(date).toLocaleString();
